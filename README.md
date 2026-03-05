@@ -13,4 +13,4 @@
 
 ## License
 
-I have no rights to license these files as I don't own them.
+open source 
